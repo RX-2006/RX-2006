@@ -25,7 +25,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tech Stack</h2>
+<h2 data-importer="text" align="left">🛠️Tech Stack</h2>
 
 ###
 
