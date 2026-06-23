@@ -123,11 +123,12 @@
 
 ###
 
+###
 <h2 data-importer="text" align="left">✍️ Dev Quote</h2>
 
 ###
 
-<p data-importer="text" align="left">"A delayed game is eventually good, but a rushed game is bad forever."<br>                          — Shigeru Miyamoto</p>
+<h4 data-importer="text" align="left">"A delayed game is eventually good, but a rushed game is bad forever."<br>                          — Shigeru Miyamoto</h5>
 
 ###
 
